@@ -1,6 +1,6 @@
 ## Anti-DDoS Protection System
 
-![
+!
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![C++ Version](https://img.shields.io/badge/C%2B%2B-17-blue)
 
